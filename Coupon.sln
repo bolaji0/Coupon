@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CouponApi", "CouponApi\CouponApi.csproj", "{A630B97D-1C4B-4491-B726-21AC3589BB04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CouponWeb", "CouponWeb\CouponWeb.csproj", "{1CFE36BF-EA3D-4711-B94E-39E803C02A9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A630B97D-1C4B-4491-B726-21AC3589BB04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A630B97D-1C4B-4491-B726-21AC3589BB04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A630B97D-1C4B-4491-B726-21AC3589BB04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A630B97D-1C4B-4491-B726-21AC3589BB04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CFE36BF-EA3D-4711-B94E-39E803C02A9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CFE36BF-EA3D-4711-B94E-39E803C02A9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CFE36BF-EA3D-4711-B94E-39E803C02A9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CFE36BF-EA3D-4711-B94E-39E803C02A9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08406F24-7B6A-4B6B-AF78-9BBAE2B91F62}
+	EndGlobalSection
+EndGlobal
